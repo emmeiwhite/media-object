@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header,
+footer {
+  border: 1px solid #000;
+  flex: 0 0 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  flex: 1 0 0%;
+}
+
+nav,
+aside {
+  flex-basis: 160px;
+  padding: 1rem;
+  text-align: center;
+}
+
+section {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  flex: 1;
+  padding: 1rem;
+}
