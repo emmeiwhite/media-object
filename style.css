@@ -10,6 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: rgb(238, 133, 133);
 }
 
 .container {
@@ -17,7 +18,7 @@ body {
   border: 1px solid #777;
   padding: 1rem;
   background: blue;
-
+  box-shadow: 2px 3px gray;
   display: flex;
   justify-content: space-between;
 }
