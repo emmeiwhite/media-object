@@ -18,7 +18,7 @@ body {
   border: 1px solid #777;
   padding: 1rem;
   background: blue;
-  box-shadow: 2px 3px gray;
+  box-shadow: 2px 3px 5px gray;
   display: flex;
   justify-content: space-between;
 }
