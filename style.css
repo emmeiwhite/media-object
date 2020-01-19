@@ -21,6 +21,7 @@ body {
   box-shadow: 2px 3px 5px gray;
   display: flex;
   justify-content: space-between;
+  border-radius: 1rem;
 }
 
 .img-main,
