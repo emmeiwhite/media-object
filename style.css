@@ -35,15 +35,18 @@ body {
 .main-section-post {
   color: #fff;
 }
+
 .main-section-post p {
   margin: 0.5rem 0;
 }
+
 .comment-img {
   width: 25px;
   height: 25px;
   margin-right: 0.5rem;
   border: 1px solid #000;
 }
+
 .main-section {
   padding: 0px 10px;
 }
@@ -51,6 +54,7 @@ body {
 .comment-section {
   margin: 1rem 0;
 }
+
 .comment {
   display: flex;
   margin-bottom: 1rem;
